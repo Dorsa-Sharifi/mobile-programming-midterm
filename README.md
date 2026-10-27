@@ -12,7 +12,7 @@ Midterm project for the **Mobile Programming** course (Sharif University of Tech
 | 2 | [`q2/sensor_dashbord_app`](q2/sensor_dashbord_app) | Sensor dashboard: compass, GPS map, light meter, step counter, proximity, barometer, NFC reader, shake detection, parallax background | Flutter, Android |
 | 3 | [`q3/encrypted_bank_card_app`](q3/encrypted_bank_card_app) | Bank card wallet with AES-encrypted SQLite storage, biometric lock, NFC scan, installed banking-app detection | Flutter, Android |
 
-Each app has its own README with architecture and details; screenshots are in `q1/Q1_Screenshots/`, `q2/Q2_Screenshots/` and `q3/encrypted_bank_card_app/screenshots/`.
+Each app has its own README with architecture and details; screenshots are in `secure_bank_app\Q1_Screenshots`, `sensor_dashbord_app\Q2_Screenshots` and `encrypted_bank_card_app/screenshots/`.
 
 > **Note on screenshots:** some areas are blurred on purpose. I used my own phone number as test input while trying the login flow, so I blurred it (along with a few other personal details like my username and GPS test coordinates). 😄
 
